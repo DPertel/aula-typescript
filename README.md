@@ -4,4 +4,4 @@ tsc --version
 npm install -g typescript
 npx tsc --init
 npm install typescript --save-dev
-npm init -y
+npm init -y 
